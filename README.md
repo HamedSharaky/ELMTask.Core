@@ -6,3 +6,6 @@
 #    # EF Core 6 for managing Existing DB and enable Migration with Code First 
 #    # Dapper for fast query
 
+## PreRequirements:
+# Run Task Project first to create DB then run this project
+
