@@ -1,5 +1,5 @@
 ## Technical 
-# ELMTask.Core, Is A BE with .Net core 6 
+# ELMTask.Core is a BE with .Net core 6 
 # Optimized for both bandwidth and responsiveness to ensure a smooth user experience using (Indexed view, Cashing)
 # KeyWords: Clean Arch., CQRS, DDD, SOLID, Fluent API, Fluent Validation, MediatR
 ## ORM: 
